@@ -1,4 +1,4 @@
-#Este se basa en mejorar las capacidades:
+# Este se basa en mejorar las capacidades:
 -Creacion de Ventana
 -clase piece
 -clease board
